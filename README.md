@@ -19,10 +19,10 @@ predict the size of the tumour.
 
 ## Performance matrices:-
 Accuracy,
-Precision,
-Recall,
-F1 Score,
-Confusion matrix,
-Log Loss,
-ROC Curve, 
-AUC Curve
+ Precision,
+ Recall,
+ F1 Score,
+ Confusion matrix,
+ Log Loss,
+ ROC Curve, 
+ AUC Curve
