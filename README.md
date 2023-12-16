@@ -18,11 +18,11 @@ predict the size of the tumour.
       the trained model is evaluated on the testing data to measure its performance.
 
 ## Performance matrices:-
-Accuracy
-Precision
-Recall
-F1 Score
-Confusion matrix
-Log Loss
-ROC Curve 
+Accuracy,
+Precision,
+Recall,
+F1 Score,
+Confusion matrix,
+Log Loss,
+ROC Curve, 
 AUC Curve
